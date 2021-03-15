@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arpita4462
+- 👋 Hi, I’m Arpita Patel
 - 👀 I’m interested in Java, kotlin, Html, SQL, React Native, Spring Boot, Android SDK, etc
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Android Project
